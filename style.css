@@ -166,6 +166,8 @@ svg {
   }
 }
 
+/* Modern CSS Reset End */
+
 /* Utility Classes */
 .text-primary-400 {
   color: var(--clr-primary-400);
@@ -228,6 +230,8 @@ svg {
 .fs-600 {
   font-size: var(--fs-600);
 }
+
+/* Utility Classes End */
 
 a {
   font-weight: 500;
